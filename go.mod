@@ -1,3 +1,3 @@
-module xgliu515/gomodule
+module github.com/xgliu515/gomodule.git
 
 go 1.18
