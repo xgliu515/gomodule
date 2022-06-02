@@ -1,5 +1,7 @@
 package "gomod"
 
-info() {
+import "fmt"
+
+Info() {
 	fmt.Println("Gotta!")
 }
