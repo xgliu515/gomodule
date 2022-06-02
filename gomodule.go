@@ -2,6 +2,6 @@ package "gomod"
 
 import "fmt"
 
-Info() {
+func Info() {
 	fmt.Println("Gotta!")
 }
